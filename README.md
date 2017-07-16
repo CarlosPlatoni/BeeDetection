@@ -1,1 +1,2 @@
-# BeeDetection
+# Proof of Concept Project for Bee Detection
+A student was doing a research project that involved counting bees as they ate sugar solution contained in a small dish sitting above certain plants. The object was to see which plants they were attracted to. This involved counting them as they approached the dish. This is a small proof of concept project to see if this was possible with a Raspberry Pi and the official camera. The project uses Python and CV2 to achieve this and allows the live image and results to be displayed on a website utilising Flask. Please see www.thorpesoftware.com for more details.
